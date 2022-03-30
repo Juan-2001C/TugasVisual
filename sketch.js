@@ -14,7 +14,7 @@ function draw() {
 let planets = []
 let sun
 let numPlanets = 5
-let G = 120
+let G = 15
 let destabilise = 0.00001
 
 function setup() {
